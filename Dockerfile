@@ -1,6 +1,6 @@
 FROM python:3.7
 
-ENV FLASK_APP=app
+ENV FLASK_APP=flask_docker/app
 
 COPY . /app
 WORKDIR /app
