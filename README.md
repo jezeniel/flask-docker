@@ -1,5 +1,5 @@
 # Flask Docker
-A simple repo to demonstrate how to dockerize a Flask application.
+:snake::whale: A simple repo to demonstrate how to dockerize a Flask application.
 
 
 # Requirements
@@ -37,3 +37,6 @@ $ docker run --rm -p 8000:5000 flask-docker:latest
   - the format is `<host-port>:<container-port>`
 
 2. You can now visit in http://127.0.0.1:8000/ to see your app.
+
+# Contributing
+If you see any issues/problems/bugs, kindly create an issue or pull request. Cheers! :beers:
